@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7d07ac8-e2bb-425b-b13c-1c6f184a7e9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software_security_tasks/Gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/BitonicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/training/BitonicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/training/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/Task1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/sortingTask/BitonicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/sortingTask/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threading/BlockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threading/PractiseThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threading/ThreadingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threading/mm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../untitled2\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WQXtIxIcgLnk5ARZNhBGGC9Ld3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sort.training.BitonicSort">
+    <configuration name="BitonicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.BitonicSort" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.training.QuickSort" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sort.training.BitonicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.training.BitonicSort" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1.sortingTask.BitonicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.sortingTask.BitonicSort" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task1.sortingTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1.sortingTask.QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.sortingTask.QuickSort" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task1.sortingTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sort.training.BitonicSort" />
+        <item itemvalue="Application.task1.sortingTask.BitonicSort" />
+        <item itemvalue="Application.task1.sortingTask.QuickSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.BitonicSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7d07ac8-e2bb-425b-b13c-1c6f184a7e9f" name="Changes" comment="" />
+      <created>1696665993137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696665993137</updated>
+      <workItem from="1696665994361" duration="6145000" />
+      <workItem from="1697287388846" duration="1251000" />
+      <workItem from="1697351962801" duration="280000" />
+      <workItem from="1697879174983" duration="368000" />
+      <workItem from="1698388964213" duration="191000" />
+      <workItem from="1698389229810" duration="810000" />
+      <workItem from="1698392234125" duration="104000" />
+      <workItem from="1698394335154" duration="8707000" />
+      <workItem from="1698482763843" duration="2139000" />
+      <workItem from="1698843067225" duration="12941000" />
+      <workItem from="1699035048670" duration="1599000" />
+      <workItem from="1699728254208" duration="799000" />
+      <workItem from="1702053599534" duration="2842000" />
+      <workItem from="1702066561912" duration="3788000" />
+      <workItem from="1702094844910" duration="1442000" />
+      <workItem from="1702104883223" duration="4841000" />
+      <workItem from="1702300383043" duration="586000" />
+      <workItem from="1702809705214" duration="1266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/training/QuickSort.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/training/QuickSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
